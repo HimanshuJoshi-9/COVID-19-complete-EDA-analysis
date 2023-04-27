@@ -34,10 +34,13 @@ Also, we can analyze through bar graph:
 * Percentage of active cases (fig9)
 
 ## Conclusion
-Understanding the spread of the virus: Covid data analysis can help in identifying the geographic areas that are most affected by the virus, and the rate at which the virus is spreading in those areas. This information can be used to target resources and efforts toward areas that need it the most. <br>
-Predicting future trends: By analyzing patterns and trends in covid data, we can make predictions about future infection rates, hospitalizations, and deaths. This information can be used to plan and prepare for future surges in cases and to allocate resources accordingly. <br>
-Assessing the effectiveness of interventions: Covid data analysis can help in evaluating the effectiveness of interventions such as social distancing, Contract tracing, international movements, etc. By analyzing trends in infection rates before and after the implementation of these interventions, we can determine their impact on controlling the spread of the virus. <br>
+**Understanding the spread of the virus:** Covid data analysis can help in identifying the geographic areas that are most affected by the virus, and the rate at which the virus is spreading in those areas. This information can be used to target resources and efforts toward areas that need it the most. <br>
 
+**Predicting future trends:** By analyzing patterns and trends in covid data, we can make predictions about future infection rates, hospitalizations, and deaths. This information can be used to plan and prepare for future surges in cases and to allocate resources accordingly. <br>
+
+**Assessing the effectiveness of interventions:** Covid data analysis can help in evaluating the effectiveness of interventions such as social distancing, Contract tracing, international movements, etc. By analyzing trends in infection rates before and after the implementation of these interventions, we can determine their impact on controlling the spread of the virus. <br>
+ <br>
+ 
 ### Appendix
 Figure 1:
 ![fig 1](https://user-images.githubusercontent.com/61973220/234779689-99478a42-91e9-4dd4-be04-fb8502534160.png)
